@@ -1,0 +1,5 @@
+/Users/lonelyship/Desktop/RandomKeyboard/app/build/intermediates/classes/debug
+/Users/lonelyship/Desktop/RandomKeyboard/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c9f721e4ce799d88c312f681abdfd5b0156480f8.jar
+/Users/lonelyship/Desktop/RandomKeyboard/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e9986eb62dfa41d98ac6a6b2d4169cea2408eca2.jar
+/Users/lonelyship/Desktop/RandomKeyboard/app/build/intermediates/pre-dexed/debug/classes-cea4c764d971c77d215c5b3bce3e7673e93e30c5.jar
+/Users/lonelyship/Desktop/RandomKeyboard/app/build/intermediates/pre-dexed/debug/classes-a69cc29c645f1687d2e180911b99353840693667.jar
